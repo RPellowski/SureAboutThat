@@ -1,0 +1,16 @@
+baseURL = "https://www.sureaboutthat.com/"
+languageCode = "en-us"
+title = "Sure About That"
+theme = "hyde"
+
+canonifyURLs = false
+
+[params]
+  description = "Topics I keep revisiting"
+  themeColor = "theme-base-0d"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/rpellowski/SureAboutThat"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/rob-pellowski-76b3244/"}
+  ]
